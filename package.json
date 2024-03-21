@@ -1,0 +1,13 @@
+{
+    "name": "snow_employee_tracker",
+    "description": "An application that manage employees",
+    "authors": "snow",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "express": "^4.16.4",
+        "inquirer": "^8.2.4",
+        "mysql2": "^2.2.5"
+    }
+}
